@@ -15,7 +15,14 @@ StarNotary smart contract allows for the ownership and transfer of stars, that i
 **Frontend**  
 ---  
 ![image](https://github.com/DavidCLi/StarNotary-Ethereum/blob/master/pics/Frontend.JPG)
-****
+****  
+### Quick Start
+    npm install
+    truffle compile
+    truffle migrate --network development  --reset --all / truffle migrate --network rinkeby  --reset --all
+    truffle test
+    npm run dev
+****  
 **DAPP information**  
 Truffle version: v5.0.28 (core: 5.0.28)  
 OpenZeppelin version: v2.1.2  
