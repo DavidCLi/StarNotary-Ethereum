@@ -13,6 +13,7 @@ StarNotary smart contract allows for the ownership and transfer of stars, that i
 ### lookUptokenIdToStarInfo
 ****
 **Frontend**  
+---  
 ![image](https://github.com/DavidCLi/StarNotary-Ethereum/blob/master/pics/Frontend.JPG)
 ****
 **DAPP information**  
