@@ -3,7 +3,7 @@ Decentralized Star Notary (DAPP on Ethereum)
 ****
 StarNotary smart contract allows for the ownership and transfer of stars, that is deployed on the Rinkeby public test network. The star notary contract is inherited from ERC721 , that is a minimum interface smart contract that allows for unique tokens to be managed, owned and traded.
 ****
-pics/Frontend.JPG
+![image](https://github.com/DavidCLi/StarNotary-Ethereum/edit/master/pics/Frontend.JPG)
 ****
 DAPP information  
 Truffle version: v5.0.28 (core: 5.0.28)  
