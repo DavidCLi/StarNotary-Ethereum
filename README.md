@@ -3,6 +3,12 @@
 ****
 StarNotary smart contract allows for the ownership and transfer of stars, that is deployed on the Rinkeby public test network. The star notary contract is inherited from ERC721 , that is a minimum interface smart contract that allows for unique tokens to be managed, owned and traded.
 ****
+**Contract Functions**  
+---
+**Name and Symbol**  
+    string public constant name   = "NotaryStar";  
+    string public constant symbol = "NSR";  
+****
 **Frontend**  
 ![image](https://github.com/DavidCLi/StarNotary-Ethereum/blob/master/pics/Frontend.JPG)
 ****
